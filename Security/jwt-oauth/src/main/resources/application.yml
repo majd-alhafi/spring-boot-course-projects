@@ -1,0 +1,3 @@
+rsa:
+  private-key: certs/private.pem
+  public-key: certs/public.pem

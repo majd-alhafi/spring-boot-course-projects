@@ -1,0 +1,3 @@
+بهادا البروجكت تعرفنا على الاساسيات تبعيت السبرينغ وأهم ال Annotations المستخدمة متل
+@AutoWired @Bean @Configuration @Compoenent @RestController @Value @Primary @Lazy @Scope @Qualifier 
+وايضاً تعرفنا على أهم ال Dependinces يلي لازم تكون جوا ال pom.xml متل ال starter-web وال dev-tools وغيرها.
